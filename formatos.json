@@ -1,0 +1,37 @@
+[{
+  "Titulo": "Formato Clásico",
+  "Data": {
+    "Duración de Película": 120,
+    "Etapas": {
+        "Incidente inicial": 3,
+        "Pregunta activa": 10,
+        "Pinza 3": 15,
+        "Plotpoint 1": 30,
+        "Pinza 1": 45,
+        "Punto medio": 60,
+        "Pinza 2": 75,
+        "Plotpoint 2": 90,
+        "Climax": "105, 110",
+        "Final": 115,
+        "Créditos": 120
+    }
+  }
+},
+{
+  "Titulo": "Formato de Prueba",
+  "Data": {
+    "Duración de Película": 3120,
+    "Etapas": {
+      "Istapalapa cuchitril": 20,
+      "Incidente inicial": 33,
+      "Pregunta activa": 310,
+      "Plotpoint 1": 330,
+      "Punto medio": 360,
+      "Plotpoint 2": 390,
+      "Climax": "2105, 2110",
+      "Final": 2115,
+      "Créditos": 3000,
+      "Re-crediticio": 3120
+      }
+    }
+}]
